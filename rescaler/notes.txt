@@ -1,0 +1,17 @@
+inputs
+------
+1 input jack
+switch to change between -/+5V, 0-5V, 0-10V on input jack
+
+outputs
+-------
+3 outs
+3 switches to change preset for each out
+
+presets
+-------
+A 1V,2.5V,5V
+B -/+1V,-/+2.5V,-/+5V
+C 5V,8V,10V
+
+
