@@ -1,0 +1,45 @@
+#######
+
+	screw hole
+
+
+	           rescaler
+
+
+	3 way	     0-5V	amber led
+	switch	     0-2.5V	socket
+	A	     0-1V	out A		
+
+
+	3 way	     0-5V	amber led
+	switch	     0-2.5V	socket		
+	B`	     0-1V	out B		
+	
+
+	3 way	     0-10V	amber led
+	switch	     0-8V	socket	
+	C	     0-5V	out C		
+
+
+	green led    +-5V	3 way
+	socket	     0-5V	switch		
+	in	     0-10V	in
+
+
+		     ryo
+
+
+	screw hole
+
+#######
+
+- i'm hoping it'll fit into 4hp wide.
+- this one is to have standard black panel.
+- there are no knobs [for now].
+- somehow will have to draw on some gfx that
+imply the dif scalings relative to eachother, just dunno how.
+- likewise the routings - a few lines connecting it all up just to
+show signal flow.
+- i suspecc there may still be significant room on panel so
+maybe need to invent a lil graphic that's more n just abstract logo
+but is simple and reprasentative and catchy too.
